@@ -1,4 +1,4 @@
-# Infosys-Springboard-Demand-Forecasting-for-E-Commerce 
+# Demand-Forecasting-for-E-Commerce 
 <p> 
 Analyzed time series data to identify key demand drivers and developed a 
 comprehensive forecasting model; improved demand prediction accuracy by
