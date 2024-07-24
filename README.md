@@ -7,6 +7,6 @@ comprehensive forecasting model; improved demand prediction accuracy by
  Developed machine learning models based on the findings to accurately
 forecast future demand. Efficiency of this model is 94%.
 
-# **[Project Link...](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce)**
+**[Project Link...](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce)**
 
  </p>
