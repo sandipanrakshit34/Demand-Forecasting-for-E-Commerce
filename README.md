@@ -73,6 +73,14 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
 - **Tools:** 
   - Jupyter Notebook
   - Google Colab
+ 
+
+## Authors
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
 
 ## Getting Started
 
@@ -80,7 +88,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Demand-Forecasting-for-E-Commerce.git
+   git clone https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce.git
 
 
 **[Project Link...](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce)**
