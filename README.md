@@ -75,7 +75,7 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
   - Google Colab
  
 
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
