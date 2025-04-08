@@ -83,6 +83,21 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
 <img src="Internship_Certification/Internship_Certification.png" width="650" height="">
 </p>
 
+## Quick Links:
+
+
+[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce/blob/main/Project_Report/Week%201%20Deliverables.pdf) 
+[![submission](https://img.shields.io/badge/Submission-blue)](https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce/blob/main/Project_Report/Project_Demand_Forecasting_Retailer.pdf) 
+[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1Kicm8kwjWTdiqZ7OPyQsURKM7Bsnam9J/edit?usp=sharing&ouid=104247672360361935051&rtpof=true&sd=true) 
+[![team work](https://img.shields.io/badge/Team-Work-red)](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce)
+
+
+## References Used:
+- https://arxiv.org/abs/1609.04802
+- https://arxiv.org/abs/1707.02921
+- https://arxiv.org/abs/2203.09445
+- https://www.uni-goettingen.de/de/document/download/e3004c6e53ca2fa0a30d53d98a52c24e.pdf/MA_Freudenberg.pdf
+
 ## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
