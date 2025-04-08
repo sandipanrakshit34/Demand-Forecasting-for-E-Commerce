@@ -6,6 +6,16 @@
 
 <center> <img src = "assets/accurate-forecasting-helps-us-plan.png" width = 100%>
 
+## Abstract:
+In the dynamic landscape of e-commerce, accurate demand forecasting is crucial for optimizing inventory management, reducing operational costs, and enhancing customer satisfaction. This project leverages machine learning techniques to develop predictive models for forecasting future product demand based on historical sales data and external factors such as digital marketing metrics.
+The dataset includes time-series data enriched with exogenous variables like Google clicks, Facebook impressions, and other relevant key performance indicators (KPIs) from Google Analytics. The forecasting models implemented include ARIMA, SARIMA, SARIMAX, and machine learning-based regression models. The project follows a structured approach involving data preprocessing, feature engineering, and model evaluation using performance metrics such as RMSE and MAPE.
+By identifying trends, seasonality, and demand fluctuations, the model aids e-commerce businesses in making data-driven decisions, preventing stockouts, and optimizing supply chain operations. The insights derived from this project contribute to efficient resource allocation, cost savings, and improved customer experience in the e-commerce domain.
+
+<p align="center">
+<img src="assets/infy-campus.jpg" width = 80%>
+<p align="center">Infosys, Bangalore</p>
+</p>
+
 ## Project Overview
 
 The **Demand Forecasting for E-Commerce** project is designed to develop a predictive model that accurately forecasts product demand based on historical sales data and key performance indicators (KPIs) from Google Analytics. The goal is to assist e-commerce businesses in optimizing inventory levels, reducing costs, and improving customer satisfaction by anticipating future product demand.
