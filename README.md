@@ -80,7 +80,7 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
 ## Internship Certificate:
 
 <p align="center">
-<img src="Images/Certificate.png" width="650" height="">
+<img src="Internship_Certification/Internship_Certification.png" width="650" height="">
 </p>
 
 ## Author
