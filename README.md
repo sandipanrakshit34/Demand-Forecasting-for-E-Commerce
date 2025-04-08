@@ -1,7 +1,7 @@
 <h1 align="center">Demand Forecasting for E-Commerce</h1>
 
 <p align="center">
-<img src="assets/infosys_springboard_logo.png" width="" height="">
+<img src="assets/infosys_springboard_logo.png" width="600px">
 </p>
 
 <center> <img src = "assets/accurate-forecasting-helps-us-plan.png" width = 100%>
