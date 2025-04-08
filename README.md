@@ -93,11 +93,10 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
 
 
 ## References Used:
-- https://arxiv.org/abs/1609.04802
-- https://arxiv.org/abs/1707.02921
-- https://arxiv.org/abs/2203.09445
-- https://www.uni-goettingen.de/de/document/download/e3004c6e53ca2fa0a30d53d98a52c24e.pdf/MA_Freudenberg.pdf
-
+- https://www.ijmerr.com/v4n1/ijmerr_v4n1_10.pdf
+- https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting/data
+- https://www.researchgate.net/publication/354726783_A_Recent_Review_Article_on_Demand_Forecasting
+- https://www.sciencedirect.com/science/article/pii/S2405896318313272
 ## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
