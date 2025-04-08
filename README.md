@@ -98,6 +98,6 @@ To run the project locally, follow these steps:
 
    ```
 
-**[Project Link...](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce) **
+**[Project Link...](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce)**
 
 </p>
