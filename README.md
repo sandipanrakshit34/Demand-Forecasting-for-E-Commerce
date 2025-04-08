@@ -1,6 +1,6 @@
 # Demand-Forecasting-for-E-Commerce 
 
-<center> <img src = "https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce/blob/main/accurate-forecasting-helps-us-plan.png" width = 100%>
+<center> <img src = "assets/accurate-forecasting-helps-us-plan.png" width = 100%>
 
 ## Project Overview
 
