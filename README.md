@@ -1,4 +1,8 @@
-# Demand-Forecasting-for-E-Commerce 
+<h1 align="center">Demand Forecasting for E-Commerce</h1>
+
+<p align="center">
+<img src="assets/infosys_springboard_logo.png" width="" height="">
+</p>
 
 <center> <img src = "assets/accurate-forecasting-helps-us-plan.png" width = 100%>
 
@@ -73,7 +77,11 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
 - **Tools:** 
   - Jupyter Notebook
   - Google Colab
- 
+
+## Internship Certificate:
+<p align="center">
+<img src="Images/Certificate.png" width="650" height="">
+</p>
 
 ## Author
 
