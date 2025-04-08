@@ -11,6 +11,9 @@ In the dynamic landscape of e-commerce, accurate demand forecasting is crucial f
 The dataset includes time-series data enriched with exogenous variables like Google clicks, Facebook impressions, and other relevant key performance indicators (KPIs) from Google Analytics. The forecasting models implemented include ARIMA, SARIMA, SARIMAX, and machine learning-based regression models. The project follows a structured approach involving data preprocessing, feature engineering, and model evaluation using performance metrics such as RMSE and MAPE.
 By identifying trends, seasonality, and demand fluctuations, the model aids e-commerce businesses in making data-driven decisions, preventing stockouts, and optimizing supply chain operations. The insights derived from this project contribute to efficient resource allocation, cost savings, and improved customer experience in the e-commerce domain.
 
+</br>
+</br>
+
 <p align="center">
 <img src="assets/infy-campus.jpg" width = 80%>
 <p align="center">Infosys, Bangalore</p>
