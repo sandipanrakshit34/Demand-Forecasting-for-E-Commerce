@@ -99,7 +99,7 @@ The **Demand Forecasting for E-Commerce** project aims to develop predictive mod
 ## Quick Links:
 
 
-[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce/blob/main/Project_Report/Week%201%20Deliverables.pdf) 
+[![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce/blob/main/Project_Report/Final_project_report.pdf) 
 [![submission](https://img.shields.io/badge/Submission-blue)](https://github.com/sandipanrakshit34/Demand-Forecasting-for-E-Commerce/blob/main/Project_Report/Project_Demand_Forecasting_Retailer.pdf) 
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1Kicm8kwjWTdiqZ7OPyQsURKM7Bsnam9J/edit?usp=sharing&ouid=104247672360361935051&rtpof=true&sd=true) 
 [![team work](https://img.shields.io/badge/Team-Work-red)](https://github.com/springboardmentor139/Demand-Forecasting-For-E-commerce)
